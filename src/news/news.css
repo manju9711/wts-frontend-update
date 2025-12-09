@@ -1,0 +1,18 @@
+/* .news-section-bg {
+  
+   background-image: url('./images/backimg.png');
+   
+} */
+ .news-section-bg {
+  background-image: url('./images/backimg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  min-height: 100vh; /* Optional, adjust based on your layout */
+}
+
+.globe{
+    width: 130px !important;
+    height: 130px !important;
+}

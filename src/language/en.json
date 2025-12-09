@@ -1,0 +1,245 @@
+{
+    "header": {
+    "home": "Home",
+    "purposes": "Purpose",
+    "aboutus": "About Us",
+    "invitation": "Invitations",
+    "festival": "Events",
+    "newssection": "News",
+    "publish":"Publications",
+    "donate": "Donate Now",
+    "login": "Log In",
+    "join": "Join",
+    "mv":"Mission and Vision",
+    "members":"Management Committee",
+    "channel":"Tracks"
+   
+    },
+
+  "banner": {
+  "title1": "WORLD TAMIL SIRAGAM",
+  "title2": "WELCOMES YOU!",
+  "thiruvalluvar":"Indonesia's first Thiruvalluvar statue",
+  "registernumber":"(Reg No:w952015257)",
+  "membershipRegistration": "Membership Registration",
+  "contactUs": "Contact Us",
+  "message1": "Dear All!",
+  "message2": "Greetings, lovers of classical Tamil!!",
+  "message3": "To spread the sweet sound of Tamil globally",
+  "message4": "Must act!",
+  "message5": "The World Tamil Siragam shines brightly!",
+  "message6": "Attaining excellence and permanence!",
+  "message7": "We wish for fame to surround and shine!"
+  },
+  "visionmission": {
+    "title1": "World Tamil Siragam",
+    "title2": "Welcomes You!",
+    "description": "Uniting Tamils across the globe, the World Tamil Chamber was established in Paris, France as its headquarters on September 23rd, 2023.",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+
+  "objective": {
+  "title1": "World Tamil Siragam!",
+  "title2": "What is the purpose of its establishment?",
+  "data1": "Uniting Tamils",
+  "data2": "Publishing Tamil books",
+  "data3": "Supporting educational advancement",
+  "data4": "Establishing statues of Tamil scholars/ancestors",
+  "data5": "Reviving Tamil culture and way of life",
+  "data6": "Creating opportunities to teach the Tamil language"
+},
+
+
+  "purpose": {
+    "title": "Vision",
+    "description": "The World Tamil Siragam Organization was founded on September 23, 2023, with its headquarters in Paris, France, to unite Tamils ​​all over the world.",
+    "membershipRegistration": "Membership Registration",
+    "contactUs": "Contact Us",
+    "heading1":"World Tamil Siragam",
+    "heading2":"The purpose of the set up?",
+    "invitation": "Invitation",
+    "readMore": "Read More",
+    "link1":"Literature",
+    "link2":"Histories",
+    "link3":"Stories",
+    "link4":"Poems ",
+    "link5":"Songs",
+    "link6":"Books",
+    "wts":"World Tamil Siragam"
+  },
+
+  "news": {
+    "title":"World Tamil Siragam - News",
+    "title1":"World Tamil Siragam",
+    "title2":"News",
+    "readnews":"Read All News",
+    "allnews":"News"
+  },
+ 
+
+  "festival": {
+    "heading":"World Tamil Siragam - Events",
+   "title": "Events",
+   "description": "The World Tamil Siragam Organization was founded on September 23, 2023, with its headquarters in Paris, France, to unite Tamils ​​all over the world.",
+   "membershipRegistration": "Membership Registration",
+   "allevents": "To view events",
+   "heading1": "World Tamil Siragam",
+   "heading2": "Events",
+   "readMore": "Read More"
+},
+
+"donate": {
+  "heading1":"World Tamil Siragam",
+  "heading2":"To spread the sweet sound of Tamil throughout the world, action is needed!",
+  "donatenow":"Publications",
+   "membershipRegistration": "Membership Registration"
+},
+
+"contact":{
+  "title":"Contact Us",
+  "description":"The organization known as 'World Tamil Siragam' is headquartered in France.",
+  "heading":"world Tamil Siragam!",
+  "quotes":"The sweet Tamil language must be made to spread throughout the world!",
+  "quotescontent":"We, who come from a culture that nurtured the Tamil language through the Sangam, even if we live away from our homeland, let us all unite, as our ancestors said, and nurture our mother Tamil and the culture of the Tamil people.",
+  "quotesauthor":"–Subramania Bharathiyar"
+},
+
+"footer":{
+  
+    "f1": "Quick Link",
+    "f2": "About us",
+    "f3": "Vision",
+    "f4": "Mission",
+    "f5": "Members",
+
+    "f6": "Explore",
+    "f7": "Donate Now",
+    "f8": "Events",
+    "f9": "Gallery",
+    "f10": "News",
+
+    "f11":"Useful Link",
+    "f12":"FAQs",
+    "f13":"By Laws",
+    "f14":"Financial Statements",
+
+    "f15":"Contacts",
+    "f16":"tamilsiragam@gmail.com",
+    "f17":"6",
+    "f18":"Rue Paul Langevin",
+    "f19":"95140",
+    "f20":"Garges les Gonesse",
+    "f21":"France",
+    "f22":"+33 1 39 93 56 46",
+    "f23":"Paris"
+  },
+  "event":{
+        "heading1":"World Tamil Siragam",
+        "heading2":"Events",
+        "Purpose":"Vision",
+        "title1":"World Tamil Siragam!", 
+        "title2":"Purpose of setting up?",
+        "description":"Tamil volunteers living in different countries have come together to form the World Tamil Flag with France as its headquarters.",
+        "group":"Discussions and programs",
+         "eventscollection":"View a collection of events"
+    },
+
+    
+      "gallery": {
+        "title": "World Tamil Siragam - Opening Ceremony",
+        "heading": "World Tamil Siragam Opening Ceremony!",
+        "date": "15 May 2024",
+        "h1": "Chief",
+        "p1": "Dear Friends!",
+        "p2": "Greetings to the lovers of classical Tamil!",
+        "p3": "Special Guest",
+        "p4": "Honorable S. Jagathrakshakan MP",
+        "p5": "Former Union Minister",
+        "p6": "Chairperson",
+        "p7": "Pattarsar Ki. Bharathidasan, France",
+        "p8": "General Secretary",
+        "p9": "Dr. M. Ponnusamy, USA",
+        "h2": "Foreword",
+        "description1": "It helps to easily understand the beauty of Tamil, the traditions of culture, and the excellence of literature. Our goal is to enhance the diversity and global status of Tamil.",
+        "h3": "Purpose of Inception",
+        "description2": "The World Tamil House was started to promote the unity of Tamils and to spread the excellence of Tamil culture to the world. Its main objectives are to encourage the development of Tamil language, culture, and arts, and to take actions to protect the welfare of Tamils. Additionally, the World Tamil House aims to establish Tamil unity, highlight the excellence of Tamil culture, safeguard Tamil interests, and create opportunities for the growth of the Tamil language.",
+        "h4": "Tribute",
+        "description3": "Dear friends, this evening, I feel very happy because I have the responsibility to pay tribute to an important person in our World Tamil House. The achievements, sacrifices, and contributions of Mr. (Name) are exemplary and serve as a model for us. Words are not enough to express our gratitude for the love and recognition Mr. (Name) has given to the Tamil community through his hard work and dedication. We extend our heartfelt thanks to him. He continues to be a strong role model for all of us. Today, we honor him with this special tribute and cash prize. Our heartfelt thanks and best wishes to him. Thank you, everyone.",
+        "h5": "Conclusion",
+        "description4": "Dear friends, I am very happy to speak with you at the end of this event. Today, we spent a very useful and enlightening day. Many thanks! Thanks to everyone who spoke at the event. Your comments provided new insights for all of us. Thanks to all the team members who worked on organizing the event. Your hard work made this event a success. Thank you, everyone.",
+        "photos": "Photos",
+        "readmore":"Read More",
+        "morefestivals": "More Festivals",
+        "carouseltitle1": "Publishing Tamil Books",
+        "carouseltitle2": "Statues for those who served Tamil",
+        "carouseltitle3": "Tamils and their Art Performances",
+        "carouseldescription1": "From the time Tamil emerged until now, and in the future, Tamil books, weekly, and monthly magazines that have been and will be published",
+        "carouseldescription2": "Tamil books, weekly, and monthly magazines that will be published in the future",
+        "carouseldescription3": "Dance performed by mimicking riding on a horse with a horse saddle"
+      },
+    
+    
+    
+    "structure":{
+        "title1":"World Tamil Siragam",
+        "title2":"Organization",
+        "bannertitle1":"The world Tamil Siragam is lit up!",
+        "bannertitle2":"Achieve excellence in the unit! - Stay settled! ",
+        "bannertitle3":" Congratulations! The surrounding fame is burning!",
+        "membership":"membership registration",
+        "contact":"Contact Us",
+        "subtitle":"The purpose of the organization",
+        
+        
+        "structure": "World Tamil Siragam",
+        "p": "World Tamil Siragam, Paris (France) is a registered international Tamil organization operating globally. It includes Tamil enthusiasts from various countries around the world as its organizers and members.",
+        "visions": "Visions",
+        "p1": "To unite Tamils living in various countries around the world.",
+        "p2": "To revive Tamil language, Tamil culture, and Tamil lifestyle among Tamils living worldwide.",
+        "p3": "To foster the relationship between diaspora Tamils and their homeland, Tamil Nadu.",
+        "p4": "To provide avenues for understanding their roots in soil, tradition, and worship.",
+        "p5": "To organize international conferences, seminars, and events focusing on Tamil lifestyle, history, art, culture, values, science, commerce, and economy.",
+        "p6": "To publish and release books, documents, and other publications on these topics.",
+        "p7": "To honor and document the ancestors who have served Tamil language and ethnicity appropriately.",
+        "p8": "To facilitate Tamil language training in necessary countries.",
+        "p9": "To assist in the educational advancement of poor and underprivileged students.",
+        "p10": "To establish statues of Tamil scholars/ancestors in various countries around the world.",
+    
+        "heading":"World Tamil Siragam!",
+        "Management1":"Management Committee",
+        "Management2":"Executive Committee Members",
+        "committe":"Management Committee"
+    },
+    "invitation":{
+        "title":"An invitation to the flourishing of love",
+        "description1":"All the dear people of Tamil Sangam,",
+        "description2":"With our best wishes, we welcome you to the special program of the Tamil Society.",
+        "date":"Date: 24 July 2024",
+        "time":"Time: 6:00 PM",
+        "place":" Venue: Tamil Sangam Hall",
+        "description3":"We warmly welcome you all!",
+        "pdfcontent": "Read full document :",
+        "invitation": "Invitation"
+   },
+   "blog":{
+    "title":"News"
+    
+   },
+   
+   "publish":{
+    "heading1":"World Tamil Siragam",
+    "heading2":"Publish",
+    "pdfcontent":"Read the inauguration document of our Assembly :"
+   },
+   
+   "channels": {
+    "heading1": "World Tamil Siragam",
+    "heading2": "Channels",
+    "title": "Tamil classes begin in Medan, Indonesia",
+    "description": "Tamil classes started in the city of Medan, Indonesia, by the World Tamil Siragam organization continue to be held every week. Books were provided to help the children of expatriate Tamils learn Tamil easily."
+}
+
+   
+    
+   }

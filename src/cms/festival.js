@@ -107,20 +107,25 @@ const Festival = () => {
         : item.image
     : null,
 
-           // video: Array.isArray(item.video) ? [...item.video] : [],  // Spread to create a new array
-          //gallery_images: Array.isArray(item.gallery_images) ? [...item.gallery_images] : [],  // Spread to create a new array
-          video: Array.isArray(item.video)
+           
+        video: Array.isArray(item.video)
     ? item.video.map((file) => ({
-        id: file.id,
-        filePath: file.filePath || file.path || '', // fallback if filePath not present
-        file: null, // since it's an existing file
+        id: typeof file === "string" ? file : file.id,
+        filePath:
+            typeof file === "string"
+                ? `public/${file}`
+                : (file.filePath || file.path || ""),
+        file: null,
     }))
     : [],
 
 gallery_images: Array.isArray(item.gallery_images)
     ? item.gallery_images.map((file) => ({
-        id: file.id,
-        filePath: file.filePath || file.path || '',
+        id: typeof file === "string" ? file : file.id,
+        filePath:
+            typeof file === "string"
+                ? `public/${file}`
+                : (file.filePath || file.path || ""),
         file: null,
     }))
     : [],

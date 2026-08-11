@@ -12,7 +12,7 @@ const Donate = () => {
   }
 
   return (
-    <div id="donate" >
+    <div id="donate" className="mt-[70px]" >
     <div className="relative z-1 flex items-center justify-center bg-blue-900 py-10 ">
       <div className="text-center text-white ">
         <h1 className="text-2xl sm:text-3xl md:text-4xl event-title-5xl:text-5xl font-bold">

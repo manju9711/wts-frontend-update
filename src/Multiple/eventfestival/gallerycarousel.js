@@ -83,7 +83,7 @@ const GalleryCarousel = () => {
               <div className="flex flex-col px-2" key={item._id}>
                 <img
                   className="lg:h-56 object-cover rounded-2xl"
-                  src={item.image.filePath?.startsWith('blob') ? item.image.filePath : `${process.env.REACT_APP_API_URL}/${item.image.filePath}`}
+                  src={item.image.filePath?.startsWith('blob') || item.image.filePath?.startsWith('http') ? item.image.filePath : `${process.env.REACT_APP_API_URL}/${item.image.filePath}`}
                   alt={item.title_ta}
                 />
                 <div className="p-4">

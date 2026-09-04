@@ -29,7 +29,7 @@ const Channels = () => {
     setSelectedMediaItem({
       ...mediaItem,
       type: mediaItem.fileType && mediaItem.fileType.startsWith('image/') ? 'image' : 'video', // media வகையை type என update செய்கிறது
-      src: `${process.env.REACT_APP_API_URL}/${mediaItem.filePath.replace(/\\/g, '/')}`
+      src: mediaItem.filePath.startsWith('http') ? mediaItem.filePath : `${process.env.REACT_APP_API_URL}/${mediaItem.filePath.replace(/\\/g, '/')}`
     });
     setIsModalOpen(true);
   };
@@ -98,7 +98,7 @@ const Channels = () => {
     return isImage || isImageByExtension ? (
       <img
         key={idx}
-        src={`${process.env.REACT_APP_API_URL}/${media.filePath.replace(/\\/g, '/')}`}
+        src={media.filePath.startsWith('http') ? media.filePath : `${process.env.REACT_APP_API_URL}/${media.filePath.replace(/\\/g, '/')}`}
         alt={`Media ${idx + 1}`}
         className="h-40 w-40 object-cover mx-2 scrollimg"
         onClick={() => openModal(media)}
@@ -110,7 +110,7 @@ const Channels = () => {
     ) : isVideo || isVideoByExtension ? (
       <video
         key={idx}
-        src={`${process.env.REACT_APP_API_URL}/${media.filePath.replace(/\\/g, '/')}`}
+        src={media.filePath.startsWith('http') ? media.filePath : `${process.env.REACT_APP_API_URL}/${media.filePath.replace(/\\/g, '/')}`}
         className="h-40 w-40 object-cover mx-2 scrollimg"
         controls
         loop

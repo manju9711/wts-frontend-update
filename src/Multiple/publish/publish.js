@@ -182,7 +182,7 @@ const Publish = () => {
 
                 <button 
                   className="bg-blue-500 text-white px-4 py-2 rounded-md"
-                  onClick={() => handleDownload(`${process.env.REACT_APP_API_URL}/public/${selectedBook.file}`)}
+                  onClick={() => handleDownload(selectedBook.file.startsWith('http') ? selectedBook.file : `${process.env.REACT_APP_API_URL}/public/${selectedBook.file}`)}
                 >
                   Download
                 </button>

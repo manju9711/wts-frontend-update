@@ -245,7 +245,7 @@ const Gallery = () => {
                 >
                   <img
                     src={
-                      image.startsWith("blob")
+                      image.startsWith("blob") || image.startsWith("http")
                         ? image
                         : `${process.env.REACT_APP_API_URL}/public/${image}`
                     }
@@ -275,7 +275,7 @@ const Gallery = () => {
                 >
                   <img
                     src={
-                      image.startsWith("blob")
+                      image.startsWith("blob") || image.startsWith("http")
                         ? image
                         : `${process.env.REACT_APP_API_URL}/public/${image}`
                     }
@@ -308,7 +308,7 @@ const Gallery = () => {
             <div className="relative">
               <img
                 src={
-                  displayedItems[currentImageIndex]?.startsWith("blob")
+                  displayedItems[currentImageIndex]?.startsWith("blob") || displayedItems[currentImageIndex]?.startsWith("http")
                     ? displayedItems[currentImageIndex]
                     : `${process.env.REACT_APP_API_URL}/public/${displayedItems[currentImageIndex]}`
                 }

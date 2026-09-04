@@ -403,7 +403,7 @@ const Tracks = () => {
                                             {isImage ? (
                                                 <img
                                                     src={
-                                                        fileData.filePath.startsWith('blob')
+                                                        fileData.filePath.startsWith('blob') || fileData.filePath.startsWith('http')
                                                             ? fileData.filePath
                                                             : `${process.env.REACT_APP_API_URL}/${fileData.filePath}`
                                                     }
@@ -421,7 +421,7 @@ const Tracks = () => {
                                             ) : isVideo ? (
                                                 <video
                                                     src={
-                                                        fileData.filePath.startsWith('blob')
+                                                        fileData.filePath.startsWith('blob') || fileData.filePath.startsWith('http')
                                                             ? fileData.filePath
                                                             : `${process.env.REACT_APP_API_URL}/${fileData.filePath}`
                                                     }
